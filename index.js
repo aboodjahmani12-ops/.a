@@ -1,9 +1,9 @@
 const { Client, GatewayIntentBits, PermissionsBitField } = require('discord.js');
 
 // ====== الإعدادات ======
-const TOKEN = 'حط_التوكن_هنا';
-const GUILD_ID = '123456789012345678'; // حط ID السيرفر هنا
-const WEBHOOK_URL = 'https://discord.com/api/webhooks/xxxxx/yyyyy'; // حط رابط الويب هوك هنا
+const TOKEN = 'MTU2MTUwMjk0Nzc4NjA5NjY5MQ.GSh4Ru.1sLJiO1Boq-Y1aV-m0ScM2CZSd-X2dSAyHkqFY';
+const GUILD_ID = '1561092473151819796'; // حط ID السيرفر هنا
+const WEBHOOK_URL = 'https://discord.com/api/webhooks/1566240069583634545/-hp7VNKkMIKSEYIs3_4vhHvjC4DTBdfLe_Jxk5dA8EyQCbP5yjCGg_zknhtnw1jvuUEc'; // حط رابط الويب هوك هنا
 // =========================
 
 const client = new Client({
